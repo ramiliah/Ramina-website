@@ -4,11 +4,12 @@ Website commissioned by multidisciplinary artist Ramina Habibollah.
 
 ## Demo
 
-https://xurxe.github.io/Ramina/
+https://ramina.space
 
 ## Author
 
-Xurxe Toivo García
+All rights reserved © Ramina Habibollah
+Code by Xurxe Toivo García
 
 ## License
 
